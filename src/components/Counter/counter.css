@@ -1,0 +1,28 @@
+.counter {
+  background: #237a8dbf;
+  width: 36%;
+  margin: 100px auto;
+  padding: 78px 0;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  color: #fff;
+}
+
+.action button {
+  display: inline-block;
+  padding: 0.6rem 0.8rem;
+  border: none;
+  border-radius: 0.3rem;
+  color: #fff;
+  background: #fc7c7c;
+  text-transform: capitalize;
+  margin-left: 19px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+}
+
+.action button:active {
+  transform: scale(0.9);
+}

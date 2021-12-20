@@ -1,0 +1,16 @@
+.todoForm .title ,.content{
+    border: none;
+    padding: 0.7rem;
+    border-radius: 2px;
+    width: 60%;
+    margin-top: 10px;
+    outline: none;
+}
+.todoForm .btn {
+    width: 40%;
+    padding: .5rem .8rem;
+    text-transform: uppercase;
+    background-color: #fc7c7c;
+    border:none;
+    margin-top: 15px;
+}

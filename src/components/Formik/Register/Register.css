@@ -1,0 +1,50 @@
+.signUp-fullbody {
+  background-color: #a6a7ad;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-top: 8rem;
+}
+.signUp-form {
+  background-color: #c8cace;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  color: #81a1ab;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  padding: 1.5rem 3rem;
+  margin-bottom: 1.5rem;
+}
+.form-content-signUp{
+    width: 400px;
+    padding-top: 20px;
+}
+.title {
+  text-transform: uppercase;
+  margin-left: 5px;
+  padding-bottom: 2px;
+}
+.dropDwn {
+  margin-left: 15px;
+  border: none;
+  padding: 0.4rem 1rem;
+  color: #81a1ab;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+.hoppy{
+    padding:.3rem;
+    border: none;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.del{
+    font-size: 1.5rem;
+    display: inline-block;
+    margin-left: 8px;
+    color: rgb(201 0 68);
+}

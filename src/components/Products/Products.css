@@ -1,0 +1,17 @@
+.products-page{
+    margin-top: 100px;
+}
+.products-page h2{
+    position: relative;
+}
+.products-page h2::after{
+    content: '';
+    width: 80px;
+    height: 3px;
+    position: absolute;
+    left: 50%;
+    bottom: 30%;
+    background: #fc7c7c;
+    transform: translateX(-50%);
+
+}
